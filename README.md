@@ -17,7 +17,7 @@
 
 ### 🌱 Currently Learning
 - Next.js
-- System Design
+- Flask
 
 ### 💬 Ask Me About
 - React
