@@ -22,6 +22,7 @@
 ### 💬 Ask Me About
 - React
 - Flutter
+- Optimization 
 - Scalable App Architecture
 
 ### ⚡ Fun Fact  
